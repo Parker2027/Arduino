@@ -1,3 +1,3 @@
 # Arduino
  CHE181 Project 
- - Mesuring and Logging the tempurature of water
+ - Mesuring and logging the temperature of water
